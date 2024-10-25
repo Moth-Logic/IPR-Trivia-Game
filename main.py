@@ -5,9 +5,8 @@ from random import randint, choice, shuffle
 
 Continuar_Jugando = True
 
-Nombres_Jugadores = ()
+Nombres_Jugadores = []
 
-Preguntadas = []
 M_Jugadores = []
 Matriz_Preguntas_Respuesta = []
 
@@ -253,7 +252,7 @@ def Marcador():
 
     global M_Jugadores
 
-    M_Jugadores.sort()
+    M_Jugadores.sort(reverse=True)
 
     i = 1
 
@@ -336,7 +335,7 @@ def Imprimir_Turno(Nombre):
 
     print(f"Va el TURNO de: {Nombre}\n\n")
 
-def Pregunta_Random(M_Preguntas):
+def Pregunta_Random():
 
     """
 
@@ -349,19 +348,14 @@ def Pregunta_Random(M_Preguntas):
     - Pregunta random
         
     """
-    global Preguntadas
+    global Matriz_Preguntas_Respuesta
 
-    if len(Preguntadas) == len(M_Preguntas):
-        Preguntadas = []
+    if len(Matriz_Preguntas_Respuesta) == 0:
+        Matriz_Preguntas_Respuesta = Obtener_Preguntas_Respuestas()
 
-    Random = randint(0, len(M_Preguntas))
+    Random = randint(0, len(Matriz_Preguntas_Respuesta) - 1)
 
-    Pregunta = M_Preguntas[Random]
-
-    while Pregunta in Preguntadas:
-        Pregunta = Pregunta_Random()
-
-    Preguntadas.append(Pregunta)
+    Pregunta = Matriz_Preguntas_Respuesta.pop(Random)
     
     return Pregunta
 
@@ -403,13 +397,15 @@ def Evalua_Ganador():
     
     """
 
-    global M_Jugadores
+    global M_Jugadores, Nombres_Jugadores
 
     Puntaje_Maximo = M_Jugadores[0][0]
 
-    Jugadores_Putaje_Max = [e for e in M_Jugadores if e[0] == Puntaje_Maximo]
+    Jugadores_Puntaje_Max = [e for e in M_Jugadores if e[0] == Puntaje_Maximo]
 
-    return Jugadores_Putaje_Max
+    Nombres_Jugadores = [Jugador for _ , Jugador in M_Jugadores]
+
+    return Jugadores_Puntaje_Max
     
 
 def Imprimir_Mensaje_Ganador(Ganador):
@@ -429,6 +425,10 @@ def Imprimir_Mensaje_Ganador(Ganador):
 
     print("¡Felicidades Ganaste, ERES UN GENIO!")
     print(f"¡EL GANADOR ES {Ganador[1]} con un puntaje de {Ganador[0]} puntos!")
+
+    input("\n\n Presiona cualquier tecla para continuar \n\n")
+
+    Marcador()
 
     input("\n\n Presiona cualquier tecla para continuar \n\n")
 
@@ -455,7 +455,7 @@ def Hubo_Empate(Empatados):
     print("\n\nEs por ello que para desempatar se hará lo siguiente: ")
     print("\n1-Se tomarán los empatados y seguirán contestando, una por una, preguntas.")
     print("\n2-Quien falle la pregunta no tendrá segunta oportunidad.")
-    print("\n3-Ganará quien no pare de fallar.")
+    print("\n3-Ganará quien no falle.")
 
     input("\n\n Presiona cualquier tecla para continuar \n\n")
 
@@ -495,7 +495,7 @@ def Empezar_Juego(N_Preguntas):
 
     """
 
-    global Nombres_Jugadores, Matriz_Preguntas_Respuesta
+    global Nombres_Jugadores
 
     L_Respuesta = ["A","B","C","D"]
 
@@ -511,14 +511,17 @@ def Empezar_Juego(N_Preguntas):
             
             Imprimir_Turno(Turno_Jugador)
 
-            Pregunta_Actual = Pregunta_Random(Matriz_Preguntas_Respuesta)
+            Pregunta_Actual = Pregunta_Random()
             
             Imprimir_Pregunta(Pregunta_Actual, L_Respuesta)
             
             Respuesta = input("Ingrese su respuesta: ")
 
+            Respuesta = Respuesta.upper()
+
             while Respuesta not in L_Respuesta:
                 Respuesta = input("Ingrese una respuesta válida (A,B,C,D): ")
+                Respuesta = Respuesta.upper()
 
             Indice = L_Respuesta.index(Respuesta)
             
@@ -567,7 +570,7 @@ def Jugar_Trivia():
 
     print(M_Jugadores)
 
-    Nombres_Jugadores = tuple(Jugador for _ , Jugador in M_Jugadores)
+    Nombres_Jugadores = [Jugador for _ , Jugador in M_Jugadores]
 
     Empezar_Juego(N_Preguntas)
 
@@ -587,8 +590,7 @@ def Imprimir_Como_Jugar():
 
     """
     print("¿En qué consiste?\n\n")
-    print("Consiste en una serie de preguntas y respuestas sobre diversos temas como historia,")
-    print("ciencia, deportes, entretenimiento, geografía, entre otros. Los jugadores compiten")
+    print("Consiste en una serie de preguntas y respuestas sobre diversos temas de arte. Los jugadores compiten")
     print("para ver quién puede responder correctamente a la mayor cantidad de preguntas.\n\n")
 
     print("Instrucciones de cómo jugar:\n\n")
@@ -641,9 +643,9 @@ def Ejecutar_Opcion(Opcion):
 
     Imprimir_Pantalla_Blanco()
 
-    if Opcion == "A":
+    if Opcion.upper() == "A":
         Jugar_Trivia()
-    elif Opcion == "B":
+    elif Opcion.upper() == "B":
         Imprimir_Como_Jugar()
     else:
         Salir()
