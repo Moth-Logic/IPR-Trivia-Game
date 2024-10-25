@@ -1,1198 +1,200 @@
-1. ¿Quién escribió 'Azazel'?
-   - Isaac Asimov (respuesta correcta)
-   - Arthur C. Clarke
-   - H.P. Lovecraft
-   - Philip K. Dick
-
-2. ¿En qué isla vivía Otelo?
-   - Sicilia
-   - Chipre (respuesta correcta)
-   - Creta
-   - Rodas
-
-3. ¿Cuál es el nombre del primer gran poema épico de la literatura inglesa?
-   - Beowulf (respuesta correcta)
-   - La Ilíada
-   - La Odisea
-   - El Cantar de Roldán
-
-4. ¿Quién pintó 'Mujer mirando por la ventana'?
-   - Salvador Dalí (respuesta correcta)
-   - Pablo Picasso
-   - Claude Monet
-   - Vincent van Gogh
-
-5. ¿En qué ciudad nació el pintor y escultor Joan Miró?
-   - Valencia
-   - Madrid
-   - Barcelona (respuesta correcta)
-   - Sevilla
-
-6. ¿De qué género es la obra 'Luces de Bohemia'?
-   - Novela
-   - Poesía
-   - Teatro (respuesta correcta)
-   - Ensayo
-
-7. ¿Cuál de los siguientes personajes no aparece en la portada del álbum Sgt. Pepper's Lonely Hearts Club Band, de la banda británica The Beatles?
-   - Marilyn Monroe
-   - Bob Marley (respuesta correcta)
-   - Karl Marx
-   - Oscar Wilde
-
-8. ¿Cuál es el baile popular de Aragón?
-   - Sardana
-   - Sevillanas
-   - Jota (respuesta correcta)
-   - Muñeira
-
-9. ¿En qué año se suicidó Van Gogh?
-   - 1885
-   - 1889
-   - 1890 (respuesta correcta)
-   - 1891
-
-10. ¿Cuál es el baile típico de Galicia?
-    - Flamenco
-    - Sardana
-    - Jota
-    - Muñeira (respuesta correcta)
-
-11. ¿Quién escribió La Divina Comedia?
-    - Dante Alighieri (respuesta correcta)
-    - Giovanni Boccaccio
-    - Francesco Petrarca
-    - Homero
-
-12. ¿Cuántas cuerdas suele tener un bajo eléctrico?
-    - Cuatro (respuesta correcta)
-    - Cinco
-    - Seis
-    - Ocho
-
-13. ¿Quién escribió "El Ejército Negro"?
-    - Santiago García-Clairac (respuesta correcta)
-    - Arturo Pérez-Reverte
-    - Carlos Ruiz Zafón
-    - Laura Gallego
-
-14. ¿Cuál de las siguientes obras fue escrita por Wolfgang Amadeus Mozart?
-    - La Traviata
-    - Réquiem (respuesta correcta)
-    - El Barbero de Sevilla
-    - Aida
-
-15. ¿Para qué sirve la paleta?
-    - Para mezclar pinturas (respuesta correcta)
-    - Para esculpir
-    - Para afilar cuchillos
-    - Para sostener lienzos
-
-16. ¿Quién escribió el poema romano, Las Metamorfosis?
-    - Horacio
-    - Ovidio (respuesta correcta)
-    - Virgilio
-    - Séneca
-
-17. ¿Qué ruta se hace en honor al poeta Miguel Hernández?
-    - La senda del poeta (respuesta correcta)
-    - Camino de Santiago
-    - Ruta de las Alpujarras
-    - Vía Augusta
-
-18. ¿Qué personaje femenino protagoniza el libro de Dan Brown "La Conspiración"?
-    - Sophie Neveu
-    - Rachel Sexton (respuesta correcta)
-    - Vittoria Vetra
-    - Katherine Solomon
-
-19. ¿Según el cuento de "El Principito" cuál fue el séptimo planeta que visitó?
-    - Marte
-    - Júpiter
-    - Saturno
-    - El planeta Tierra (respuesta correcta)
-
-20. ¿Qué tendencia musical es la que más incursiona en Jamaica?
-    - Jazz
-    - Rock
-    - Reggae (respuesta correcta)
-    - Salsa
-
-21. ¿Cuál es la famosa cueva que se narra en el Quijote?
-    - Montesinos (respuesta correcta)
-    - Altamira
-    - El Soplao
-    - Nerja
-
-22. ¿Qué usamos para diluir los colores de las acuarelas?
-    - Aceite
-    - Alcohol
-    - Agua (respuesta correcta)
-    - Glicerina
-
-23. ¿Cuántos anillos fueron creados por Sauron para los Señores Enanos en el Señor de los Anillos?
-    - 3
-    - 7 (respuesta correcta)
-    - 9
-    - 12
-
-24. ¿Cómo se llama el padre que devora a su hijo en una obra de Francisco de Goya?
-    - Marte
-    - Júpiter
-    - Saturno (respuesta correcta)
-    - Plutón
-
-25. ¿Cuál de las siguientes palabras es esdrújula?
-    - Facilísimo
-    - Metálico (respuesta correcta)
-    - Pared
-    - Elefante
-
-26. ¿Quién escribió la novela "El Código Da Vinci"?
-    - Ken Follett
-    - Dan Brown (respuesta correcta)
-    - Stephen King
-    - John Grisham
-
-27. ¿Cuál de las siguientes obras fue escrita por Gabriel García Márquez?
-    - La Fiesta del Chivo
-    - Rayuela
-    - El coronel no tiene quién le escriba (respuesta correcta)
-    - La Casa de los Espíritus
-
-28. ¿Cuál es la obra cumbre en la literatura española escrita por Fernando de Rojas?
-    - Don Quijote
-    - La Celestina (respuesta correcta)
-    - El Lazarillo de Tormes
-    - Fuenteovejuna
-
-29. ¿Cuál de estos pintores hace pinturas con forma geométricas?
-    - Rembrandt
-    - Picasso (respuesta correcta)
-    - Van Gogh
-    - Degas
-
-30. ¿Cuál de estos libros no fue escrito por Haruki Murakami?
-    - 1Q84
-    - Tokio Blues
-    - La devoción del sospechoso X (respuesta correcta)
-    - Crónica del pájaro que da cuerda al mundo
-
-31. ¿Quién escribió "Romancero Gitano"?
-    - Antonio Machado
-    - Juan Ramón Jiménez
-    - Federico García Lorca (respuesta correcta)
-    - Miguel Hernández
-
-32. ¿Con qué cualidad describirías a Tom Sawyer?
-    - Inteligente
-    - Travieso (respuesta correcta)
-    - Peligroso
-    - Reservado
-
-33. ¿A qué familia de instrumentos pertenece la guitarra, el violín y el bajo?
-    - Viento
-    - Percusión
-    - Cuerdas (respuesta correcta)
-    - Teclados
-
-34. ¿Cuál compositor de música clásica era zurdo?
-    - Bach
-    - Beethoven (respuesta correcta)
-    - Chopin
-    - Haydn
-
-35. ¿Cuántos dedos tiene por lo general una caricatura?
-    - Cuatro (respuesta correcta)
-    - Cinco
-    - Tres
-    - Seis
-
-36. ¿Quiénes eran los "Tres tenores"?
-    - Carreras, Bocelli, Domingo
-    - Carreras, Pavarotti, Domingo (respuesta correcta)
-    - Domingo, Pavarotti, Vivaldi
-    - Bocelli, Domingo, Verdi
-
-37. ¿Quién pintó "La Sagrada Familia del Cordero"?
-    - Leonardo da Vinci
-    - Miguel Ángel
-    - Rafael Sanzio (respuesta correcta)
-    - Tiziano
-
-38. ¿Cuál de las siguientes pertenece a las 7 maravillas del mundo antiguo?
-    - El Coloso de Rodas
-    - La Gran Pirámide de Giza
-    - Todas son correctas (respuesta correcta)
-    - Los Jardines Colgantes de Babilonia
-
-39. ¿Qué nota musical hay entre re y fa?
-    - Sol
-    - Mi (respuesta correcta)
-    - La
-    - Si
-
-40. ¿Qué instrumento tocaba Zeta Bosio en Soda Stereo?
-    - Guitarra
-    - Batería
-    - Bajo (respuesta correcta)
-    - Teclado
-41. ¿Cómo se llama al conjunto de 5 líneas y 4 espacios que se usa para componer música?
-    - Pentagrama (respuesta correcta)
-    - Partitura
-    - Escala
-    - Clef
-
-42. ¿Qué parte del cuerpo se cortó Vincent Van Gogh?
-    - Un dedo
-    - Una oreja (respuesta correcta)
-    - Una mano
-    - Un pie
-
-43. ¿Quién escribió "Platero y yo"?
-    - Juan Ramón Jiménez (respuesta correcta)
-    - Antonio Machado
-    - Federico García Lorca
-    - Miguel Hernández
-
-44. ¿Quién pintó "La Anunciación"?
-    - Jan de Beer (respuesta correcta)
-    - Leonardo da Vinci
-    - Sandro Botticelli
-    - Tiziano
-
-45. ¿Quién pintó la obra mundialmente conocida con el nombre de "Mona Lisa" o "Gioconda"?
-    - Leonardo Da Vinci (respuesta correcta)
-    - Rafael Sanzio
-    - Michelangelo
-    - Donatello
-
-46. ¿Cuál de ellos es un adverbio de lugar?
-    - Aquí
-    - Ahí (respuesta correcta)
-    - Bien
-    - Rápido
-
-47. ¿Cuál de estos poemas escribió Mario Benedetti?
-    - Todas las anteriores (respuesta correcta)
-    - Táctica y estrategia
-    - No te salves
-    - Corazón coraza
-
-48. Amor con amor se paga...
-    - Y lo demás con favores
-    - Y lo demás con palabras
-    - Y lo demás con dinero (respuesta correcta)
-    - Y lo demás con promesas
-
-49. ¿Qué libro de Gabriel García Márquez es considerado una de las obras más famosas de la literatura mundial?
-    - El coronel no tiene quien le escriba
-    - Cien años de soledad (respuesta correcta)
-    - Crónica de una muerte anunciada
-    - El amor en los tiempos del cólera
-
-50. ¿Qué tenía Salvador Dalí de característico?
-    - El sombrero
-    - El bigote (respuesta correcta)
-    - Los anteojos
-    - La barba
-
-51. ¿Quién es Laura Gallego García?
-    - Una actriz
-    - Una escritora (respuesta correcta)
-    - Una cantante
-    - Una pintora
-
-52. ¿Quién es el autor de "La guerra del fin del mundo"?
-    - Mario Vargas Llosa (respuesta correcta)
-    - Gabriel García Márquez
-    - Isabel Allende
-    - Julio Cortázar
-
-53. ¿Cuál es la técnica usada en dibujo a base de carboncillo?
-    - Línea
-    - Mancha (respuesta correcta)
-    - Sombra
-    - Punteado
-
-54. ¿Quién es el autor de la obra: Viaje al centro de la Tierra?
-    - Julio Verne (respuesta correcta)
-    - H.G. Wells
-    - Arthur Conan Doyle
-    - J.R.R. Tolkien
-
-55. ¿Cuál de las siguientes obras no pertenece a Edgar Allan Poe?
-    - El cuervo
-    - El gato negro
-    - El pozo y el péndulo
-    - El monte de las ánimas (respuesta correcta)
-
-56. Más vale pájaro en mano...
-    - que cien volando (respuesta correcta)
-    - que dos volando
-    - que tres en el árbol
-    - que un nido vacío
-
-57. ¿Dónde se encontraba el cuadro "El Grito"?
-    - Noruega
-    - Francia (respuesta correcta)
-    - Alemania
-    - Estados Unidos
-
-58. ¿A qué ciudad vasca dedicó un cuadro Pablo Picasso?
-    - Bilbao
-    - San Sebastián
-    - Vitoria
-    - Guernica (respuesta correcta)
-
-59. ¿Qué importante pieza de arte fue robada y guardada debajo de una cama hasta que se devolvió al Museo Louvre?
-    - El David
-    - La Mona Lisa (respuesta correcta)
-    - La Venus de Milo
-    - La Libertad guiando al pueblo
-
-60. ¿Quién escribió la novela "Contagio"?
-    - Stephen King
-    - Robin Cook (respuesta correcta)
-    - Michael Crichton
-    - John Grisham
-
-61. ¿Cuál de estos artistas se destacó por su estilo impresionista?
-    - Picasso
-    - Monet (respuesta correcta)
-    - Dalí
-    - Van Gogh
-
-62. ¿Cuál de éstas es obra de García Lorca?
-    - Bodas de sangre
-    - La casa de Bernarda Alba
-    - El maleficio de la mariposa (respuesta correcta)
-    - Yerma
-
-63. ¿Cuál de estas obras de Gabriel García Márquez ha sido llevada al cine?
-    - El amor en los tiempos del cólera
-    - Crónica de una muerte anunciada
-    - Cien años de soledad
-    - Todas las anteriores (respuesta correcta)
-
-64. ¿Dónde estudió Antoni Gaudí?
-    - Madrid
-    - París
-    - Barcelona (respuesta correcta)
-    - Roma
-
-65. ¿Cuál es la tesitura más alta de voz masculina?
-    - Tenor
-    - Barítono
-    - Bajo
-    - Contratenor (respuesta correcta)
-
-66. ¿Quién escribió "El cuervo"?
-    - Stephen King
-    - Edgar Allan Poe (respuesta correcta)
-    - Mary Shelley
-    - Bram Stoker
-
-67. ¿Qué autor utilizó en uno de sus poemas el verso de Bécquer "donde habite el olvido allí estará mi tumba"?
-    - García Lorca
-    - Pablo Neruda (respuesta correcta)
-    - Mario Benedetti
-    - Octavio Paz
-
-68. ¿A qué se dedicaban los siete enanitos?
-    - Eran pastores
-    - Eran agricultores
-    - Eran pescadores
-    - Eran mineros (respuesta correcta)
-
-69. ¿Cuál es el estilo de la catedral de Burgos?
-    - Románico
-    - Barroco
-    - Gótico (respuesta correcta)
-    - Neoclásico
-
-70. ¿Cuál es el autor del libro "Inés del alma mía"?
-    - Gabriel García Márquez
-    - Isabel Allende (respuesta correcta)
-    - Mario Vargas Llosa
-    - Laura Esquivel
-
-71. ¿Quién es el autor de Rimas y Leyendas?
-    - Gustavo Adolfo Bécquer (respuesta correcta)
-    - Antonio Machado
-    - Federico García Lorca
-    - Miguel de Unamuno
-
-72. ¿Qué canción le dedicó Bob Marley a Rita Marley?
-    - Is This Love
-    - Milkshake & potato chips (respuesta correcta)
-    - No Woman, No Cry
-    - Redemption Song
-
-73. Perro que ladra...
-    - No muerde (respuesta correcta)
-    - Muerde poco
-    - Ladra fuerte
-    - Se calma pronto
-
-74. ¿Qué afición artística tenía Hitler?
-    - Música
-    - Pintura (respuesta correcta)
-    - Escultura
-    - Literatura
-
-75. ¿En qué país nació el escritor Jorge Luis Borges?
-    - Uruguay
-    - Chile
-    - Argentina (respuesta correcta)
-    - España
-
-76. ¿En qué novela el protagonista es un asesino en serie con un sentido del olfato increíblemente desarrollado?
-    - El Silencio de los Inocentes
-    - El Perfume (respuesta correcta)
-    - Crimen y Castigo
-    - American Psycho
-
-77. ¿De quién es la obra "El Alcalde de Zalamea" representada por los vecinos de la localidad pacense de Zalamea de la Serena"?
-    - Lope de Vega
-    - Pedro Calderón de la Barca (respuesta correcta)
-    - Tirso de Molina
-    - Antonio Machado
-
-78. ¿Cuál de los siguientes libros fue escrito por Stephen King?
-    - La Torre Oscura
-    - El Resplandor
-    - Insomnia (respuesta correcta)
-    - It
-
-79. ¿Quién pintó 'La muerte de Lucrecia'?
-    - Francisco de Goya
-    - Eduardo Rosales (respuesta correcta)
-    - Diego Velázquez
-    - El Greco
-
-80. ¿De qué país es la caricatura "Condorito"?
-    - México
-    - Argentina
-    - Chile (respuesta correcta)
-    - Perú
-
-81. ¿En qué ciudad se encuentra el museo Guggenheim?
-    - Madrid
-    - Barcelona
-    - Bilbao (respuesta correcta)
-    - Valencia
-
-82. ¿A qué corriente pertenece Garcilaso de la Vega?
-    - Barroco
-    - Clasicismo
-    - Renacimiento (respuesta correcta)
-    - Romanticismo
-
-83. ¿Quién fue un humanista, filósofo, filólogo y teólogo holandés?
-    - Martín Lutero
-    - Erasmo de Róterdam (respuesta correcta)
-    - René Descartes
-    - Baruch Spinoza
-
-84. ¿Cómo se señalan las rimas en los versos de arte mayor?
-    - Con minúsculas
-    - Con signos de puntuación
-    - Con números
-    - Con mayúsculas (respuesta correcta)
-
-85. ¿Quién es el autor de "Mazurca para dos muertos"?
-    - Gabriel García Márquez
-    - Camilo José Cela (respuesta correcta)
-    - Mario Vargas Llosa
-    - Julio Cortázar
-
-86. ¿Quién escribió "Orgullo y Prejuicio"?
-    - Emily Brontë
-    - Charlotte Brontë
-    - Jane Austen (respuesta correcta)
-    - Mary Shelley
-
-87. ¿De qué nacionalidad es el pintor Gustav Klimt?
-    - Alemán
-    - Suizo
-    - Austriaco (respuesta correcta)
-    - Húngaro
-
-88. ¿Quién es el autor de la frase "Es tan corto el amor, y es tan largo el olvido"?
-    - Mario Benedetti
-    - Pablo Neruda (respuesta correcta)
-    - Federico García Lorca
-    - Octavio Paz
-
-89. ¿Cómo se llamaba el padre de Hilde MØller Knag en "El mundo de Sofía"?
-    - Jostein Knag
-    - Albert Knag (respuesta correcta)
-    - Erik Møller
-    - Andreas Hansen
-
-90. ¿Qué perdió el soldadito de plomo?
-    - Una pierna (respuesta correcta)
-    - Un brazo
-    - Un ojo
-    - Una espada
-
-91. ¿Cuál es la obra fundamental de Kant?
-    - La República
-    - Crítica de la razón pura (respuesta correcta)
-    - El contrato social
-    - Discurso del método
-
-92. ¿Cuál fue el primer filósofo del que se tiene alguna noticia?
-    - Sócrates
-    - Pitágoras
-    - Tales de Mileto (respuesta correcta)
-    - Anaximandro
-
-93. ¿Qué estaba demasiado verde para la zorra de la fábula de La Fontaine?
-    - Una manzana
-    - Una pera
-    - Uvas (respuesta correcta)
-    - Una naranja
-
-94. Caminante no hay camino, se hace...
-    - camino al andar (respuesta correcta)
-    - al final del sendero
-    - con esfuerzo y lucha
-    - por la voluntad
-
-95. ¿A qué movimiento artístico perteneció el pintor francés Eugène Delacroix?
-    - Clasicismo
-    - Romanticismo (respuesta correcta)
-    - Barroco
-    - Renacimiento
-
-96. ¿De qué novela de Jane Austen es protagonista el personaje de Elizabeth Bennet?
-    - Sentido y Sensibilidad
-    - Emma
-    - Orgullo y Prejuicio (respuesta correcta)
-    - Mansfield Park
-
-97. ¿Cuántos 'gritos' pintó Munch?
-    - Tres
-    - Cuatro (respuesta correcta)
-    - Cinco
-    - Seis
-
-98. ¿En qué museo se encuentra 'El jardín de las delicias'?
-    - El Louvre
-    - El Prado (respuesta correcta)
-    - El Museo de Arte Moderno
-    - La National Gallery
-
-99. ¿Qué técnica utiliza Goya en 'Los desastres de la Guerra'?
-    - Óleo
-    - Aguafuerte (respuesta correcta)
-    - Acuarela
-    - Lápiz
-
-100. ¿Quién escribió 'El Diario de Ana Frank'?
-    - Otto Frank
-    - Ana Frank (respuesta correcta)
-    - Anne Rice
-    - Primo Levi
-
-101. El que a buen árbol se arrima...
-    - buena fruta recoge
-    - buena sombra le cobija (respuesta correcta)
-    - buen refugio encuentra
-    - buena compañía tiene
-
-102. ¿Qué era lo primero que iba a comprar la Lechera con el dinero que obtuviera de la leche?
-    - Pollos
-    - Huevos (respuesta correcta)
-    - Cerdos
-    - Vacas
-
-103. ¿Quién escribió "El Conde de Montecristo"?
-    - Victor Hugo
-    - Alexandre Dumas (respuesta correcta)
-    - Honoré de Balzac
-    - Jules Verne
-
-104. ¿A partir de cuántas sílabas se considera verso de arte mayor?
-    - 8
-    - 9 (respuesta correcta)
-    - 10
-    - 11
-
-105. ¿En qué país nació Jorge Luis Borges?
-    - Uruguay
-    - Chile
-    - Argentina (respuesta correcta)
-    - España
-
-106. El andaluz es un dialecto del...
-    - Catalán
-    - Castellano (respuesta correcta)
-    - Gallego
-    - Vasco
-
-107. ¿Qué nombre genérico recibe una estatua en la que se representa a una persona sentada?
-    - Recostada
-    - Sedente (respuesta correcta)
-    - Erguida
-    - De pie
-
-108. ¿Quién escribió "Crítica de la razón pura"?
-    - Georg Wilhelm Friedrich Hegel
-    - Immanuel Kant (respuesta correcta)
-    - René Descartes
-    - Jean-Jacques Rousseau
-
-109. ¿Qué obra NO pertenece a Shakespeare?
-    - Hamlet
-    - La Tempestad
-    - La Divina Comedia (respuesta correcta)
-    - Otelo
-
-110. ¿Quién de estos artistas pintó "Los relojes derretidos"?
-    - Pablo Picasso
-    - Salvador Dalí (respuesta correcta)
-    - Claude Monet
-    - Henri Matisse
-
-111. ¿Dónde nació el pintor Alejandro Obregón?
-    - México
-    - España (respuesta correcta)
-    - Colombia
-    - Perú
-
-112. ¿Qué color consigues mezclando todos los colores del CMYK?
-    - Blanco
-    - Gris
-    - Negro (respuesta correcta)
-    - Azul oscuro
-
-113. ¿Quién escribió "Oliver Twist"?
-    - William Makepeace Thackeray
-    - Charles Dickens (respuesta correcta)
-    - Thomas Hardy
-    - Mark Twain
-
-114. ¿Quién dijo la frase "no soy lo suficientemente joven como para saberlo todo"?
-    - Oscar Wilde (respuesta correcta)
-    - George Bernard Shaw
-    - Winston Churchill
-    - Albert Einstein
-
-115. ¿En qué ciudad se encuentra el David de Miguel Ángel?
-    - Roma
-    - Milán
-    - Florencia (respuesta correcta)
-    - Venecia
-
-116. ¿Quién pintó el cuadro "La Persistencia de la Memoria"?
-    - Pablo Picasso
-    - Salvador Dalí (respuesta correcta)
-    - René Magritte
-    - Joan Miró
-
-117. ¿Qué obra está realizada en soporte de cartón?
-    - Las Meninas
-    - El Grito de Munch (respuesta correcta)
-    - La Última Cena
-    - La Libertad guiando al pueblo
-
-118. ¿Cuál era la 'Ciudad de las Siete Puertas de Homero'?
-    - Atenas
-    - Tebas (respuesta correcta)
-    - Troya
-    - Esparta
-
-119. ¿Cuál era el nombre del capitán que intentó dar caza a Moby Dick?
-    - Capitán Flint
-    - Capitán Nemo
-    - Capitán Ahab (respuesta correcta)
-    - Capitán Hook
-
-120. Gabriel García Márquez se caracteriza por narrar en un mundo:
-    - Surrealista
-    - Realista
-    - Real Maravilloso (respuesta correcta)
-    - Místico
-
-121. ¿Quién escribió "Dos años de vacaciones"?
-    - H.G. Wells
-    - Julio Verne (respuesta correcta)
-    - Robert Louis Stevenson
-    - Mark Twain
-
-122. ¿Quién era la diosa de la sabiduría en la mitología griega?
-    - Hera
-    - Afrodita
-    - Atenea (respuesta correcta)
-    - Artemisa
-
-123. ¿De qué muere Jean Valjean en la novela 'Los Miserables'?
-    - De tuberculosis
-    - De un disparo
-    - De viejo (respuesta correcta)
-    - De hambre
-
-124. ¿De qué estaba hecha la casa que se encontraron Hansel y Gretel?
-    - Chocolate (respuesta correcta)
-    - Caramelo
-    - Galleta
-    - Pastel
-
-125. ¿Quién escribió la novela "100 años de Soledad"?
-    - Mario Vargas Llosa
-    - Gabriel García Márquez (respuesta correcta)
-    - Isabel Allende
-    - Carlos Fuentes
-
-126. ¿Quién escribió 'Mujercitas'?
-    - Emily Brontë
-    - Louisa May Alcott (respuesta correcta)
-    - Jane Austen
-    - Charlotte Brontë
-
-127. ¿Quién es el autor de "Las aventuras de Alicia en el País de las Maravillas"?
-    - J.R.R. Tolkien
-    - Lewis Carroll (respuesta correcta)
-    - C.S. Lewis
-    - James Barrie
-
-128. ¿Quién es el autor de "Las Cuatro Estaciones"?
-    - Johann Sebastian Bach
-    - Antonio Vivaldi (respuesta correcta)
-    - Ludwig van Beethoven
-    - Wolfgang Amadeus Mozart
-
-129. ¿De qué nacionalidad era Leonardo Da Vinci?
-    - Francés
-    - Italiano (respuesta correcta)
-    - Español
-    - Austriaco
-
-130. ¿Cuál es el nombre del conde de Montecristo?
-    - Armand Duval
-    - Edmon Dantès (respuesta correcta)
-    - Jean Valjean
-    - D'Artagnan
-
-131. Más vale tarde...
-    - que nunca (respuesta correcta)
-    - que pronto
-    - que mañana
-    - que rápido
-
-132. En mitología griega, ¿quién traslada a los muertos hacia el inframundo?
-    - Hermes
-    - Hades
-    - Caronte (respuesta correcta)
-    - Perséfone
-
-133. ¿De qué color es el Caballo de Santiago?
-    - Negro
-    - Marrón
-    - Blanco (respuesta correcta)
-    - Gris
-
-134. ¿Cuál es el nombre dado a la epopeya escrita en la Edad Media?
-    - Novela de caballerías
-    - Cantar de gesta (respuesta correcta)
-    - Romance
-    - Fábula
-
-135. ¿Cómo se denominan las primeras novelas andaluzas?
-    - Pastoriles
-    - Caballerescas
-    - Moriscas (respuesta correcta)
-    - Costumbristas
-
-136. ¿Cuál es el siglo más importante para el arte barroco en España?
-    - XVI
-    - XVII (respuesta correcta)
-    - XVIII
-    - XIX
-
-137. ¿Cuál es la ciudad europea sede del prestigioso Teatro Negro?
-    - Viena
-    - Berlín
-    - Praga (respuesta correcta)
-    - Ámsterdam
-
-138. ¿De qué tipo de arte es la escultura Apolo de Belvedere?
-    - Arte Egipcio
-    - Arte Griego (respuesta correcta)
-    - Arte Romano
-    - Arte Renacentista
-
-139. ¿Con qué animal apostó la liebre a que llegaba antes que él en el cuento de La Fontaine?
-    - Perro
-    - Tortuga (respuesta correcta)
-    - Zorro
-    - Gato
-
-140. ¿Dónde nació Clarín?
-    - Oviedo
-    - Zamora (respuesta correcta)
-    - Valladolid
-    - León
-
-141. ¿Cuál es el nombre de Picasso?
-    - José
-    - Pablo (respuesta correcta)
-    - Francisco
-    - Juan
-
-142. ¿Qué es 'El País'?
-    - Un libro
-    - Un periódico (respuesta correcta)
-    - Una canción
-    - Un monumento
-
-143. En una palabra, el movimiento literario Romanticismo se define con:
-    - Racionalidad
-    - Sentimientos (respuesta correcta)
-    - Técnica
-    - Realismo
-
-144. Harry Potter fue escrita por...
-    - J.R.R. Tolkien
-    - J.K. Rowling (respuesta correcta)
-    - C.S. Lewis
-    - George R.R. Martin
-
-145. ¿Cómo se llama el escudero de Don Quijote?
-    - Rocinante
-    - Sancho Panza (respuesta correcta)
-    - Alonso Quijano
-    - Dulcinea
-
-146. ¿Qué plantas pintaba Monet?
-    - Tulipanes
-    - Rosas
-    - Nenúfares (respuesta correcta)
-    - Margaritas
-
-147. ¿Quién escribió el ensayo feminista 'El segundo sexo'?
-    - Virginia Woolf
-    - Simone de Beauvoir (respuesta correcta)
-    - Betty Friedan
-    - Mary Wollstonecraft
-
-148. ¿En qué año apareció por primera vez el personaje Astérix?
-    - 1950
-    - 1959 (respuesta correcta)
-    - 1965
-    - 1972
-
-149. ¿Cuál de estos es uno de los temas centrales de la obra "Otelo"?
-    - Venganza
-    - Amor
-    - Celos (respuesta correcta)
-    - Traición
-
-150. ¿Quién fue el arquitecto creador de la catedral de Brasilia?
-    - Le Corbusier
-    - Oscar Niemeyer (respuesta correcta)
-    - Antoni Gaudí
-    - Frank Lloyd Wright
-
-151. ¿Cómo se llama la estrofa de cinco versos de arte menor?
-    - Terceto
-    - Cuarteto
-    - Quintilla (respuesta correcta)
-    - Sextilla
-
-152. ¿Cuál de estos cuentos fue escrito por Julio Cortázar?
-    - Casa Tomada (respuesta correcta)
-    - La Metamorfosis
-    - El Aleph
-    - Cien años de soledad
-
-153. Se queda más solo que...
-    - la luna
-    - la una (respuesta correcta)
-    - la noche
-    - el desierto
-
-154. ¿Cuál de los siguientes instrumentos no es de viento metal?
-    - Trombón
-    - Trompeta
-    - Flauta travesera (respuesta correcta)
-    - Tuba
-
-155. Es Mejor Morir de Pie...
-    - Que Vivir de Rodillas (respuesta correcta)
-    - Que Dormir Despierto
-    - Que Soñar de Pie
-    - Que Correr Sin Fin
-
-156. ¿Quién pintó 'El triunfo de David'?
-    - Diego Velázquez
-    - Nicolas Poussin (respuesta correcta)
-    - Caravaggio
-    - Francisco de Zurbarán
-
-157. ¿Quién fue uno de los escritores más destacados de la época del romanticismo?
-    - Federico García Lorca
-    - Adolfo Bécquer (respuesta correcta)
-    - Gabriel García Márquez
-    - Miguel de Unamuno
-
-158. ¿Cómo es Obélix?
-    - Flaco
-    - Gordo (respuesta correcta)
-    - Bajo
-    - Alto
-
-159. ¿Con quién pasó más hambre el Lazarillo de Tormes?
-    - El ciego
-    - El escudero
-    - El clérigo (respuesta correcta)
-    - El fraile
-
-160. ¿Qué poeta escribió 'Mi bufón'?
-    - Federico García Lorca
-    - Antonio Machado (respuesta correcta)
-    - Miguel Hernández
-    - Rubén Darío
-
-161. Tira la piedra...
-    - Y mira al cielo
-    - Y esconde la mano (respuesta correcta)
-    - Y espera el rebote
-    - Y grita fuerte
-
-162. ¿Cómo se denomina a la poesía popular creada durante la Edad Media por los juglares?
-    - Lírica cortesana
-    - Mester de clerecía
-    - Mester de juglaría (respuesta correcta)
-    - Cancionero
-
-163. ¿Quién escribió la obra "Trabajo asalariado y capital"?
-    - Adam Smith
-    - Karl Marx (respuesta correcta)
-    - John Stuart Mill
-    - Friedrich Engels
-
-164. ¿De qué época artística es el pintor Bartolomé Esteban Murillo?
-    - Renacimiento
-    - Barroco (respuesta correcta)
-    - Romanticismo
-    - Clasicismo
-
-165. ¿En qué ciudad nórdica está situada la acción de la trilogía Millenium, del escritor Stieg Larsson?
-    - Oslo
-    - Copenhague
-    - Estocolmo (respuesta correcta)
-    - Helsinki
-
-166. ¿De qué material era el escarabajo del cuento de Edgar Allan Poe?
-    - Hierro
-    - Oro (respuesta correcta)
-    - Plata
-    - Madera
-
-167. ¿Cómo despertó el príncipe a la Bella Durmiente?
-    - Con un canto
-    - Con un aplauso
-    - Besándola (respuesta correcta)
-    - Tocando la puerta
-
-168. ¿Quién pintó 'La Gioconda'?
-    - Michelangelo
-    - Rafael
-    - Leonardo Da Vinci (respuesta correcta)
-    - Tiziano
-
-169. El que a buen árbol se arrima...
-    - buena sombra le cobija (respuesta correcta)
-    - buenos frutos recoge
-    - gran vista tiene
-    - mal clima evita
-
-170. ¿Qué era lo primero que iba a comprar la Lechera con el dinero que obtuviera de la leche?
-    - Pollos
-    - Huevos (respuesta correcta)
-    - Queso
-    - Corderos
-
-171. ¿Quién escribió "El Conde de Montecristo"?
-    - Victor Hugo
-    - Alexandre Dumas (respuesta correcta)
-    - Jules Verne
-    - Gustave Flaubert
-
-172. ¿A partir de cuántas sílabas se considera verso de arte mayor?
-    - 7
-    - 8
-    - 9 (respuesta correcta)
-    - 10
-
-173. ¿En qué país nació Jorge Luis Borges?
-    - España
-    - Uruguay
-    - Chile
-    - Argentina (respuesta correcta)
-
-174. El andaluz es un dialecto del...
-    - Catalán
-    - Castellano (respuesta correcta)
-    - Gallego
-    - Vasco
-
-175. ¿Qué nombre genérico recibe una estatua en la que se representa a una persona sentada?
-    - Recostada
-    - Sedente (respuesta correcta)
-    - Acostada
-    - Erguida
-
-176. ¿Quién escribió "Crítica de la razón pura"?
-    - Georg Wilhelm Friedrich Hegel
-    - Immanuel Kant (respuesta correcta)
-    - John Locke
-    - René Descartes
-
-177. ¿Qué obra NO pertenece a Shakespeare?
-    - Hamlet
-    - Macbeth
-    - La Tempestad
-    - La Divina Comedia (respuesta correcta)
-
-178. ¿Quién de estos artistas pintó "Los relojes derretidos"?
-    - Pablo Picasso
-    - Salvador Dalí (respuesta correcta)
-    - Henri Matisse
-    - Vincent van Gogh
-
-179. ¿Dónde nació el pintor Alejandro Obregón?
-    - México
-    - Colombia
-    - España (respuesta correcta)
-    - Chile
-
-180. ¿Qué color consigues mezclando todos los colores del CMYK?
-    - Blanco
-    - Negro (respuesta correcta)
-    - Azul
-    - Verde
-
-181. ¿Quién escribió "Oliver Twist"?
-    - Jane Austen
-    - Charles Dickens (respuesta correcta)
-    - Thomas Hardy
-    - Mark Twain
-
-182. ¿Quién dijo la frase "no soy lo suficientemente joven como para saberlo todo"?
-    - Oscar Wilde (respuesta correcta)
-    - George Bernard Shaw
-    - Mark Twain
-    - William Shakespeare
-
-183. ¿En qué ciudad se encuentra el David de Miguel Ángel?
-    - Roma
-    - Florencia (respuesta correcta)
-    - Milán
-    - Venecia
-
-184. ¿Quién pintó el cuadro "La Persistencia de la Memoria"?
-    - Claude Monet
-    - Salvador Dalí (respuesta correcta)
-    - Pablo Picasso
-    - Joan Miró
-
-185. ¿Qué obra está realizada en soporte de cartón?
-    - La Libertad guiando al pueblo
-    - El Grito de Munch (respuesta correcta)
-    - La Mona Lisa
-    - Las Meninas
-
-186. ¿Cuál era la 'Ciudad de las Siete Puertas de Homero'?
-    - Troya
-    - Tebas (respuesta correcta)
-    - Esparta
-    - Atenas
-
-187. ¿Cuál era el nombre del capitán que intentó dar caza a Moby Dick?
-    - Capitán Flint
-    - Capitán Hook
-    - Capitán Ahab (respuesta correcta)
-    - Capitán Nemo
-
-188. Gabriel García Márquez se caracteriza por narrar en un mundo:
-    - Surrealista
-    - Real Maravilloso (respuesta correcta)
-    - Mítico
-    - Fantástico
-
-189. ¿Quién escribió "Dos años de vacaciones"?
-    - Robert Louis Stevenson
-    - Julio Verne (respuesta correcta)
-    - Mark Twain
-    - H.G. Wells
-
-190. ¿Quién era la diosa de la sabiduría en la mitología griega?
-    - Hera
-    - Atenea (respuesta correcta)
-    - Afrodita
-    - Artemisa
-
-191. ¿De qué muere Jean Valjean en la novela 'Los Miserables'?
-    - De viejo (respuesta correcta)
-    - De un disparo
-    - De una enfermedad
-    - De hambre
-
-192. ¿De qué estaba hecha la casa que se encontraron Hansel y Gretel?
-    - Galleta
-    - Chocolate (respuesta correcta)
-    - Madera
-    - Caramelo
-
-193. ¿Quién escribió la novela "100 años de Soledad"?
-    - Isabel Allende
-    - Gabriel García Márquez (respuesta correcta)
-    - Julio Cortázar
-    - Mario Vargas Llosa
-
-194. ¿Quién escribió 'Mujercitas'?
-    - Emily Brontë
-    - Louisa May Alcott (respuesta correcta)
-    - Jane Austen
-    - Charlotte Brontë
-
-195. ¿Quién es el autor de "Las aventuras de Alicia en el País de las Maravillas"?
-    - Lewis Carroll (respuesta correcta)
-    - C.S. Lewis
-    - J.R.R. Tolkien
-    - James Barrie
-
-196. ¿Quién es el autor de "Las Cuatro Estaciones"?
-    - Johann Sebastian Bach
-    - Antonio Vivaldi (respuesta correcta)
-    - Ludwig van Beethoven
-    - Wolfgang Amadeus Mozart
-
-197. ¿De qué nacionalidad era Leonardo Da Vinci?
-    - Español
-    - Italiano (respuesta correcta)
-    - Francés
-    - Austriaco
-
-198. ¿Cuál es el nombre del conde de Montecristo?
-    - Jean Valjean
-    - Edmon Dantès (respuesta correcta)
-    - Armand Duval
-    - Athos
-
-199. Más vale tarde...
-    - que nunca (respuesta correcta)
-    - que rápido
-    - que temprano
-    - que a tiempo
-
-200. En mitología griega, ¿quién traslada a los muertos hacia el inframundo?
-    - Hades
-    - Caronte (respuesta correcta)
-    - Hermes
-    - Perséfone
+¿Quién escribió 'Azazel'?##Isaac Asimov##Arthur C. Clarke##H.P. Lovecraft##Philip K. Dick##Isaac Asimov  
+¿En qué isla vivía Otelo?##Sicilia##Chipre##Creta##Rodas##Chipre  
+¿Cuál es el nombre del primer gran poema épico de la literatura inglesa?##Beowulf##La Ilíada##La Odisea##El Cantar de Roldán##Beowulf  
+¿Quién pintó 'Mujer mirando por la ventana'?##Salvador Dalí##Pablo Picasso##Claude Monet##Vincent van Gogh##Salvador Dalí  
+¿En qué ciudad nació el pintor y escultor Joan Miró?##Valencia##Madrid##Barcelona##Sevilla##Barcelona  
+¿De qué género es la obra 'Luces de Bohemia'?##Novela##Poesía##Teatro##Ensayo##Teatro  
+¿Cuál de los siguientes personajes no aparece en la portada del álbum Sgt. Pepper's Lonely Hearts Club Band, de la banda británica The Beatles?##Marilyn Monroe##Bob Marley##Karl Marx##Oscar Wilde##Bob Marley  
+¿Cuál es el baile popular de Aragón?##Sardana##Sevillanas##Jota##Muñeira##Jota  
+¿En qué año se suicidó Van Gogh?##1885##1889##1890##1891##1890  
+¿Cuál es el baile típico de Galicia?##Flamenco##Sardana##Jota##Muñeira##Muñeira
+¿Quién escribió La Divina Comedia?##Dante Alighieri##Giovanni Boccaccio##Francesco Petrarca##Homero##Dante Alighieri  
+¿Cuántas cuerdas suele tener un bajo eléctrico?##Cuatro##Cinco##Seis##Ocho##Cuatro  
+¿Quién escribió "El Ejército Negro"?##Santiago García-Clairac##Arturo Pérez-Reverte##Carlos Ruiz Zafón##Laura Gallego##Santiago García-Clairac  
+¿Cuál de las siguientes obras fue escrita por Wolfgang Amadeus Mozart?##La Traviata##Réquiem##El Barbero de Sevilla##Aida##Réquiem  
+¿Para qué sirve la paleta?##Para mezclar pinturas##Para esculpir##Para afilar cuchillos##Para sostener lienzos##Para mezclar pinturas  
+¿Quién escribió el poema romano, Las Metamorfosis?##Horacio##Ovidio##Virgilio##Séneca##Ovidio  
+¿Qué ruta se hace en honor al poeta Miguel Hernández?##La senda del poeta##Camino de Santiago##Ruta de las Alpujarras##Vía Augusta##La senda del poeta  
+¿Qué personaje femenino protagoniza el libro de Dan Brown "La Conspiración"?##Sophie Neveu##Rachel Sexton##Vittoria Vetra##Katherine Solomon##Rachel Sexton  
+¿Según el cuento de "El Principito" cuál fue el séptimo planeta que visitó?##Marte##Júpiter##Saturno##El planeta Tierra##El planeta Tierra  
+¿Qué tendencia musical es la que más incursiona en Jamaica?##Jazz##Rock##Reggae##Salsa##Reggae
+¿Cuál es la famosa cueva que se narra en el Quijote?##Montesinos##Altamira##El Soplao##Nerja##Montesinos  
+¿Qué usamos para diluir los colores de las acuarelas?##Aceite##Alcohol##Agua##Glicerina##Agua  
+¿Cuántos anillos fueron creados por Sauron para los Señores Enanos en el Señor de los Anillos?##3##7##9##12##7  
+¿Cómo se llama el padre que devora a su hijo en una obra de Francisco de Goya?##Marte##Júpiter##Saturno##Plutón##Saturno  
+¿Cuál de las siguientes palabras es esdrújula?##Facilísimo##Metálico##Pared##Elefante##Metálico  
+¿Quién escribió la novela "El Código Da Vinci"?##Ken Follett##Dan Brown##Stephen King##John Grisham##Dan Brown  
+¿Cuál de las siguientes obras fue escrita por Gabriel García Márquez?##La Fiesta del Chivo##Rayuela##El coronel no tiene quién le escriba##La Casa de los Espíritus##El coronel no tiene quién le escriba  
+¿Cuál es la obra cumbre en la literatura española escrita por Fernando de Rojas?##Don Quijote##La Celestina##El Lazarillo de Tormes##Fuenteovejuna##La Celestina  
+¿Cuál de estos pintores hace pinturas con forma geométricas?##Rembrandt##Picasso##Van Gogh##Degas##Picasso  
+¿Cuál de estos libros no fue escrito por Haruki Murakami?##1Q84##Tokio Blues##La devoción del sospechoso X##Crónica del pájaro que da cuerda al mundo##La devoción del sospechoso X
+¿Quién escribió "Romancero Gitano"?##Antonio Machado##Juan Ramón Jiménez##Federico García Lorca##Miguel Hernández##Federico García Lorca  
+¿Con qué cualidad describirías a Tom Sawyer?##Inteligente##Travieso##Peligroso##Reservado##Travieso  
+¿A qué familia de instrumentos pertenece la guitarra, el violín y el bajo?##Viento##Percusión##Cuerdas##Teclados##Cuerdas  
+¿Cuál compositor de música clásica era zurdo?##Bach##Beethoven##Chopin##Haydn##Beethoven  
+¿Cuántos dedos tiene por lo general una caricatura?##Cuatro##Cinco##Tres##Seis##Cuatro  
+¿Quiénes eran los "Tres tenores"?##Carreras, Bocelli, Domingo##Carreras, Pavarotti, Domingo##Domingo, Pavarotti, Vivaldi##Bocelli, Domingo, Verdi##Carreras, Pavarotti, Domingo  
+¿Quién pintó "La Sagrada Familia del Cordero"?##Leonardo da Vinci##Miguel Ángel##Rafael Sanzio##Tiziano##Rafael Sanzio  
+¿Cuál de las siguientes pertenece a las 7 maravillas del mundo antiguo?##El Coloso de Rodas##La Gran Pirámide de Giza##Todas son correctas##Los Jardines Colgantes de Babilonia##Todas son correctas  
+¿Qué nota musical hay entre re y fa?##Sol##Mi##La##Si##Mi  
+¿Qué instrumento tocaba Zeta Bosio en Soda Stereo?##Guitarra##Batería##Bajo##Teclado##Bajo
+¿Cómo se llama al conjunto de 5 líneas y 4 espacios que se usa para componer música?##Pentagrama##Partitura##Escala##Clef##Pentagrama  
+¿Qué parte del cuerpo se cortó Vincent Van Gogh?##Un dedo##Una oreja##Una mano##Un pie##Una oreja  
+¿Quién escribió "Platero y yo"?##Juan Ramón Jiménez##Antonio Machado##Federico García Lorca##Miguel Hernández##Juan Ramón Jiménez  
+¿Quién pintó "La Anunciación"?##Jan de Beer##Leonardo da Vinci##Sandro Botticelli##Tiziano##Jan de Beer  
+¿Quién pintó la obra mundialmente conocida con el nombre de "Mona Lisa" o "Gioconda"?##Leonardo Da Vinci##Rafael Sanzio##Michelangelo##Donatello##Leonardo Da Vinci  
+¿Cuál de ellos es un adverbio de lugar?##Aquí##Ahí##Bien##Rápido##Ahí  
+¿Cuál de estos poemas escribió Mario Benedetti?##Todas las anteriores##Táctica y estrategia##No te salves##Corazón coraza##Todas las anteriores  
+¿Amor con amor se paga...##Y lo demás con favores##Y lo demás con palabras##Y lo demás con dinero##Y lo demás con promesas##Y lo demás con dinero  
+¿Qué libro de Gabriel García Márquez es considerado una de las obras más famosas de la literatura mundial?##El coronel no tiene quien le escriba##Cien años de soledad##Crónica de una muerte anunciada##El amor en los tiempos del cólera##Cien años de soledad  
+¿Qué tenía Salvador Dalí de característico?##El sombrero##El bigote##Los anteojos##La barba##El bigote
+¿Quién es Laura Gallego García?##Una actriz##Una escritora##Una cantante##Una pintora##Una escritora  
+¿Quién es el autor de "La guerra del fin del mundo"?##Mario Vargas Llosa##Gabriel García Márquez##Isabel Allende##Julio Cortázar##Mario Vargas Llosa  
+¿Cuál es la técnica usada en dibujo a base de carboncillo?##Línea##Mancha##Sombra##Punteado##Mancha  
+¿Quién es el autor de la obra: Viaje al centro de la Tierra?##Julio Verne##H.G. Wells##Arthur Conan Doyle##J.R.R. Tolkien##Julio Verne  
+¿Cuál de las siguientes obras no pertenece a Edgar Allan Poe?##El cuervo##El gato negro##El pozo y el péndulo##El monte de las ánimas##El monte de las ánimas  
+¿Más vale pájaro en mano...##que cien volando##que dos volando##que tres en el árbol##que un nido vacío##que cien volando  
+¿Dónde se encontraba el cuadro "El Grito"?##Noruega##Francia##Alemania##Estados Unidos##Francia  
+¿A qué ciudad vasca dedicó un cuadro Pablo Picasso?##Bilbao##San Sebastián##Vitoria##Guernica##Guernica  
+¿Qué importante pieza de arte fue robada y guardada debajo de una cama hasta que se devolvió al Museo Louvre?##El David##La Mona Lisa##La Venus de Milo##La Libertad guiando al pueblo##La Mona Lisa  
+¿Quién escribió la novela "Contagio"?##Stephen King##Robin Cook##Michael Crichton##John Grisham##Robin Cook
+¿Cuál de estos artistas se destacó por su estilo impresionista?##Picasso##Monet##Dalí##Van Gogh##Monet  
+¿Cuál de éstas es obra de García Lorca?##Bodas de sangre##La casa de Bernarda Alba##El maleficio de la mariposa##Yerma##El maleficio de la mariposa  
+¿Cuál de estas obras de Gabriel García Márquez ha sido llevada al cine?##El amor en los tiempos del cólera##Crónica de una muerte anunciada##Cien años de soledad##Todas las anteriores##Todas las anteriores  
+¿Dónde estudió Antoni Gaudí?##Madrid##París##Barcelona##Roma##Barcelona  
+¿Cuál es la tesitura más alta de voz masculina?##Tenor##Barítono##Bajo##Contratenor##Contratenor  
+¿Quién escribió "El cuervo"?##Stephen King##Edgar Allan Poe##Mary Shelley##Bram Stoker##Edgar Allan Poe  
+¿Qué autor utilizó en uno de sus poemas el verso de Bécquer "donde habite el olvido allí estará mi tumba"?##García Lorca##Pablo Neruda##Mario Benedetti##Octavio Paz##Pablo Neruda  
+¿A qué se dedicaban los siete enanitos?##Eran pastores##Eran agricultores##Eran pescadores##Eran mineros##Eran mineros  
+¿Cuál es el estilo de la catedral de Burgos?##Románico##Barroco##Gótico##Neoclásico##Gótico  
+¿Cuál es el autor del libro "Inés del alma mía"?##Gabriel García Márquez##Isabel Allende##Mario Vargas Llosa##Laura Esquivel##Isabel Allende
+¿Quién es el autor de Rimas y Leyendas?##Gustavo Adolfo Bécquer##Antonio Machado##Federico García Lorca##Miguel de Unamuno##Gustavo Adolfo Bécquer  
+¿Qué canción le dedicó Bob Marley a Rita Marley?##Is This Love##Milkshake & potato chips##No Woman, No Cry##Redemption Song##Milkshake & potato chips  
+¿Perro que ladra...##No muerde##Muerde poco##Ladra fuerte##Se calma pronto##No muerde  
+¿Qué afición artística tenía Hitler?##Música##Pintura##Escultura##Literatura##Pintura  
+¿En qué país nació el escritor Jorge Luis Borges?##Uruguay##Chile##Argentina##España##Argentina  
+¿En qué novela el protagonista es un asesino en serie con un sentido del olfato increíblemente desarrollado?##El Silencio de los Inocentes##El Perfume##Crimen y Castigo##American Psycho##El Perfume  
+¿De quién es la obra "El Alcalde de Zalamea" representada por los vecinos de la localidad pacense de Zalamea de la Serena"?##Lope de Vega##Pedro Calderón de la Barca##Tirso de Molina##Antonio Machado##Pedro Calderón de la Barca  
+¿Cuál de los siguientes libros fue escrito por Stephen King?##La Torre Oscura##El Resplandor##Insomnia##It##Insomnia  
+¿Quién pintó 'La muerte de Lucrecia'?##Francisco de Goya##Eduardo Rosales##Diego Velázquez##El Greco##Eduardo Rosales  
+¿De qué país es la caricatura "Condorito"?##México##Argentina##Chile##Perú##Chile  
+¿En qué ciudad se encuentra el museo Guggenheim?##Madrid##Barcelona##Bilbao##Valencia##Bilbao  
+¿A qué corriente pertenece Garcilaso de la Vega?##Barroco##Clasicismo##Renacimiento##Romanticismo##Renacimiento  
+¿Quién fue un humanista, filósofo, filólogo y teólogo holandés?##Martín Lutero##Erasmo de Róterdam##René Descartes##Baruch Spinoza##Erasmo de Róterdam  
+¿Cómo se señalan las rimas en los versos de arte mayor?##Con minúsculas##Con signos de puntuación##Con números##Con mayúsculas##Con mayúsculas  
+¿Quién es el autor de "Mazurca para dos muertos"?##Gabriel García Márquez##Camilo José Cela##Mario Vargas Llosa##Julio Cortázar##Camilo José Cela
+¿Quién escribió "Orgullo y Prejuicio"?##Emily Brontë##Charlotte Brontë##Jane Austen##Mary Shelley##Jane Austen  
+¿De qué nacionalidad es el pintor Gustav Klimt?##Alemán##Suizo##Austriaco##Húngaro##Austriaco  
+¿Quién es el autor de la frase "Es tan corto el amor, y es tan largo el olvido"?##Mario Benedetti##Pablo Neruda##Federico García Lorca##Octavio Paz##Pablo Neruda  
+¿Cómo se llamaba el padre de Hilde MØller Knag en "El mundo de Sofía"?##Jostein Knag##Albert Knag##Erik Møller##Andreas Hansen##Albert Knag  
+¿Qué perdió el soldadito de plomo?##Una pierna##Un brazo##Un ojo##Una espada##Una pierna  
+¿Cuál es la obra fundamental de Kant?##La República##Crítica de la razón pura##El contrato social##Discurso del método##Crítica de la razón pura  
+¿Cuál fue el primer filósofo del que se tiene alguna noticia?##Sócrates##Pitágoras##Tales de Mileto##Anaximandro##Tales de Mileto  
+¿Qué estaba demasiado verde para la zorra de la fábula de La Fontaine?##Una manzana##Una pera##Uvas##Una naranja##Uvas  
+¿Caminante no hay camino, se hace...##camino al andar##al final del sendero##con esfuerzo y lucha##por la voluntad##camino al andar  
+¿A qué movimiento artístico perteneció el pintor francés Eugène Delacroix?##Clasicismo##Romanticismo##Barroco##Renacimiento##Romanticismo  
+¿De qué novela de Jane Austen es protagonista el personaje de Elizabeth Bennet?##Sentido y Sensibilidad##Emma##Orgullo y Prejuicio##Mansfield Park##Orgullo y Prejuicio  
+¿Cuántos 'gritos' pintó Munch?##Tres##Cuatro##Cinco##Seis##Cuatro  
+¿En qué museo se encuentra 'El jardín de las delicias'?##El Louvre##El Prado##El Museo de Arte Moderno##La National Gallery##El Prado  
+¿Qué técnica utiliza Goya en 'Los desastres de la Guerra'?##Óleo##Aguafuerte##Acuarela##Lápiz##Aguafuerte  
+¿Quién escribió 'El Diario de Ana Frank'?##Otto Frank##Ana Frank##Anne Rice##Primo Levi##Ana Frank
+¿El que a buen árbol se arrima...##buena fruta recoge##buena sombra le cobija##buen refugio encuentra##buena compañía tiene##buena sombra le cobija  
+¿Qué era lo primero que iba a comprar la Lechera con el dinero que obtuviera de la leche?##Pollos##Huevos##Cerdos##Vacas##Huevos  
+¿Quién escribió "El Conde de Montecristo"?##Victor Hugo##Alexandre Dumas##Honoré de Balzac##Jules Verne##Alexandre Dumas  
+¿A partir de cuántas sílabas se considera verso de arte mayor?##8##9##10##11##9  
+¿En qué país nació Jorge Luis Borges?##Uruguay##Chile##Argentina##España##Argentina  
+¿El andaluz es un dialecto del...##Catalán##Castellano##Gallego##Vasco##Castellano  
+¿Qué nombre genérico recibe una estatua en la que se representa a una persona sentada?##Recostada##Sedente##Erguida##De pie##Sedente  
+¿Quién escribió "Crítica de la razón pura"?##Georg Wilhelm Friedrich Hegel##Immanuel Kant##René Descartes##Jean-Jacques Rousseau##Immanuel Kant  
+¿Qué obra NO pertenece a Shakespeare?##Hamlet##La Tempestad##La Divina Comedia##Otelo##La Divina Comedia  
+¿Quién de estos artistas pintó "Los relojes derretidos"?##Pablo Picasso##Salvador Dalí##Claude Monet##Henri Matisse##Salvador Dalí  
+¿Dónde nació el pintor Alejandro Obregón?##México##España##Colombia##Perú##España  
+¿Qué color consigues mezclando todos los colores del CMYK?##Blanco##Gris##Negro##Azul oscuro##Negro  
+¿Quién escribió "Oliver Twist"?##William Makepeace Thackeray##Charles Dickens##Thomas Hardy##Mark Twain##Charles Dickens  
+¿Quién dijo la frase "no soy lo suficientemente joven como para saberlo todo"?##Oscar Wilde##George Bernard Shaw##Winston Churchill##Albert Einstein##Oscar Wilde  
+¿En qué ciudad se encuentra el David de Miguel Ángel?##Roma##Milán##Florencia##Venecia##Florencia  
+¿Quién pintó el cuadro "La Persistencia de la Memoria"?##Pablo Picasso##Salvador Dalí##René Magritte##Joan Miró##Salvador Dalí  
+¿Qué obra está realizada en soporte de cartón?##Las Meninas##El Grito de Munch##La Última Cena##La Libertad guiando al pueblo##El Grito de Munch  
+¿Cuál era la 'Ciudad de las Siete Puertas de Homero'?##Atenas##Tebas##Troya##Esparta##Tebas  
+¿Cuál era el nombre del capitán que intentó dar caza a Moby Dick?##Capitán Flint##Capitán Nemo##Capitán Ahab##Capitán Hook##Capitán Ahab  
+Gabriel García Márquez se caracteriza por narrar en un mundo:##Surrealista##Realista##Real Maravilloso##Místico##Real Maravilloso  
+¿Quién escribió "Dos años de vacaciones"?##H.G. Wells##Julio Verne##Robert Louis Stevenson##Mark Twain##Julio Verne  
+¿Quién era la diosa de la sabiduría en la mitología griega?##Hera##Afrodita##Atenea##Artemisa##Atenea  
+¿De qué muere Jean Valjean en la novela 'Los Miserables'?##De tuberculosis##De un disparo##De viejo##De hambre##De viejo  
+¿De qué estaba hecha la casa que se encontraron Hansel y Gretel?##Chocolate##Caramelo##Galleta##Pastel##Chocolate  
+¿Quién escribió la novela "100 años de Soledad"?##Mario Vargas Llosa##Gabriel García Márquez##Isabel Allende##Carlos Fuentes##Gabriel García Márquez  
+¿Quién escribió 'Mujercitas'?##Emily Brontë##Louisa May Alcott##Jane Austen##Charlotte Brontë##Louisa May Alcott  
+¿Quién es el autor de "Las aventuras de Alicia en el País de las Maravillas"?##J.R.R. Tolkien##Lewis Carroll##C.S. Lewis##James Barrie##Lewis Carroll  
+¿Quién es el autor de "Las Cuatro Estaciones"?##Johann Sebastian Bach##Antonio Vivaldi##Ludwig van Beethoven##Wolfgang Amadeus Mozart##Antonio Vivaldi  
+¿De qué nacionalidad era Leonardo Da Vinci?##Francés##Italiano##Español##Austriaco##Italiano  
+¿Cuál es el nombre del conde de Montecristo?##Armand Duval##Edmon Dantès##Jean Valjean##D'Artagnan##Edmon Dantès
+¿Más vale tarde...##que nunca##que pronto##que mañana##que rápido##que nunca  
+¿En mitología griega, ¿quién traslada a los muertos hacia el inframundo?##Hermes##Hades##Caronte##Perséfone##Caronte  
+¿De qué color es el Caballo de Santiago?##Negro##Marrón##Blanco##Gris##Blanco  
+¿Cuál es el nombre dado a la epopeya escrita en la Edad Media?##Novela de caballerías##Cantar de gesta##Romance##Fábula##Cantar de gesta  
+¿Cómo se denominan las primeras novelas andaluzas?##Pastoriles##Caballerescas##Moriscas##Costumbristas##Moriscas  
+¿Cuál es el siglo más importante para el arte barroco en España?##XVI##XVII##XVIII##XIX##XVII  
+¿Cuál es la ciudad europea sede del prestigioso Teatro Negro?##Viena##Berlín##Praga##Ámsterdam##Praga  
+¿De qué tipo de arte es la escultura Apolo de Belvedere?##Arte Egipcio##Arte Griego##Arte Romano##Arte Renacentista##Arte Griego  
+¿Con qué animal apostó la liebre a que llegaba antes que él en el cuento de La Fontaine?##Perro##Tortuga##Zorro##Gato##Tortuga  
+¿Dónde nació Clarín?##Oviedo##Zamora##Valladolid##León##Zamora  
+¿Cuál es el nombre de Picasso?##José##Pablo##Francisco##Juan##Pablo  
+¿Qué es 'El País'?##Un libro##Un periódico##Una canción##Un monumento##Un periódico  
+¿En una palabra, el movimiento literario Romanticismo se define con:##Racionalidad##Sentimientos##Técnica##Realismo##Sentimientos  
+¿Harry Potter fue escrita por...##J.R.R. Tolkien##J.K. Rowling##C.S. Lewis##George R.R. Martin##J.K. Rowling  
+¿Cómo se llama el escudero de Don Quijote?##Rocinante##Sancho Panza##Alonso Quijano##Dulcinea##Sancho Panza 
+¿Qué plantas pintaba Monet?##Tulipanes##Rosas##Nenúfares##Margaritas##Nenúfares
+¿Quién escribió el ensayo feminista 'El segundo sexo'?##Virginia Woolf##Simone de Beauvoir##Betty Friedan##Mary Wollstonecraft##Simone de Beauvoir
+¿En qué año apareció por primera vez el personaje Astérix?##1950##1959##1965##1972##1959
+¿Cuál de estos es uno de los temas centrales de la obra "Otelo"?##Venganza##Amor##Celos##Traición##Celos
+¿Quién fue el arquitecto creador de la catedral de Brasilia?##Le Corbusier##Oscar Niemeyer##Antoni Gaudí##Frank Lloyd Wright##Oscar Niemeyer
+¿Cómo se llama la estrofa de cinco versos de arte menor?##Terceto##Cuarteto##Quintilla##Sextilla##Quintilla
+¿Cuál de estos cuentos fue escrito por Julio Cortázar?##Casa Tomada##La Metamorfosis##El Aleph##Cien años de soledad##Casa Tomada
+¿Se queda más solo que...?##la luna##la una##la noche##el desierto##la una
+¿Cuál de los siguientes instrumentos no es de viento metal?##Trombón##Trompeta##Flauta travesera##Tuba##Flauta travesera
+¿Es Mejor Morir de Pie...##Que Vivir de Rodillas##Que Dormir Despierto##Que Soñar de Pie##Que Correr Sin Fin##Que Vivir de Rodillas
+¿Quién pintó 'El triunfo de David'?##Diego Velázquez##Nicolas Poussin##Caravaggio##Francisco de Zurbarán##Nicolas Poussin
+¿Quién fue uno de los escritores más destacados de la época del romanticismo?##Federico García Lorca##Adolfo Bécquer##Gabriel García Márquez##Miguel de Unamuno##Adolfo Bécquer
+¿Cómo es Obélix?##Flaco##Gordo##Bajo##Alto##Gordo
+¿Con quién pasó más hambre el Lazarillo de Tormes?##El ciego##El escudero##El clérigo##El fraile##El clérigo
+¿Qué poeta escribió 'Mi bufón'?##Federico García Lorca##Antonio Machado##Miguel Hernández##Rubén Darío##Antonio Machado
+¿Tira la piedra...?##Y mira al cielo##Y esconde la mano##Y espera el rebote##Y grita fuerte##Y esconde la mano
+¿Cómo se denomina a la poesía popular creada durante la Edad Media por los juglares?##Lírica cortesana##Mester de clerecía##Mester de juglaría##Cancionero##Mester de juglaría
+¿Quién escribió la obra "Trabajo asalariado y capital"?##Adam Smith##Karl Marx##John Stuart Mill##Friedrich Engels##Karl Marx
+¿De qué época artística es el pintor Bartolomé Esteban Murillo?##Renacimiento##Barroco##Romanticismo##Clasicismo##Barroco
+¿En qué ciudad nórdica está situada la acción de la trilogía Millenium, del escritor Stieg Larsson?##Oslo##Copenhague##Estocolmo##Helsinki##Estocolmo
+¿De qué material era el escarabajo del cuento de Edgar Allan Poe?##Hierro##Oro##Plata##Madera##Oro
+¿Cómo despertó el príncipe a la Bella Durmiente?##Con un canto##Con un aplauso##Besándola##Tocando la puerta##Besándola
+¿Quién pintó 'La Gioconda'?##Michelangelo##Rafael##Leonardo Da Vinci##Tiziano##Leonardo Da Vinci
+¿El que a buen árbol se arrima...?##buena sombra le cobija##buenos frutos recoge##gran vista tiene##mal clima evita##buena sombra le cobija
+¿Qué era lo primero que iba a comprar la Lechera con el dinero que obtuviera de la leche?##Pollos##Huevos##Queso##Corderos##Huevos
+¿Quién escribió "El Conde de Montecristo"?##Victor Hugo##Alexandre Dumas##Jules Verne##Gustave Flaubert##Alexandre Dumas
+¿A partir de cuántas sílabas se considera verso de arte mayor?##7##8##9##10##9
+¿En qué país nació Jorge Luis Borges?##España##Uruguay##Chile##Argentina##Argentina
+¿El andaluz es un dialecto del...?##Catalán##Castellano##Gallego##Vasco##Castellano
+¿Qué nombre genérico recibe una estatua en la que se representa a una persona sentada?##Recostada##Sedente##Acostada##Erguida##Sedente
+¿Quién escribió "Crítica de la razón pura"?##Georg Wilhelm Friedrich Hegel##Immanuel Kant##John Locke##René Descartes##Immanuel Kant
+¿Qué obra NO pertenece a Shakespeare?##Hamlet##Macbeth##La Tempestad##La Divina Comedia##La Divina Comedia
+¿Quién de estos artistas pintó "Los relojes derretidos"?##Pablo Picasso##Salvador Dalí##Henri Matisse##Vincent van Gogh##Salvador Dalí
+¿Dónde nació el pintor Alejandro Obregón?##México##Colombia##España##Chile##España
+¿Qué color consigues mezclando todos los colores del CMYK?##Blanco##Negro##Azul##Verde##Negro
+¿Quién escribió "Oliver Twist"?##Jane Austen##Charles Dickens##Thomas Hardy##Mark Twain##Charles Dickens
+¿Quién dijo la frase "no soy lo suficientemente joven como para saberlo todo"?##Oscar Wilde##George Bernard Shaw##Mark Twain##William Shakespeare##Oscar Wilde
+¿En qué ciudad se encuentra el David de Miguel Ángel?##Roma##Florencia##Milán##Venecia##Florencia
+¿Quién pintó el cuadro "La Persistencia de la Memoria"?##Claude Monet##Salvador Dalí##Pablo Picasso##Joan Miró##Salvador Dalí
+¿Qué obra está realizada en soporte de cartón?##La Libertad guiando al pueblo##El Grito de Munch##La Mona Lisa##Las Meninas##El Grito de Munch
+¿Cuál era la 'Ciudad de las Siete Puertas de Homero'?##Troya##Tebas##Esparta##Atenas##Tebas
+¿Cuál era el nombre del capitán que intentó dar caza a Moby Dick?##Capitán Flint##Capitán Hook##Capitán Ahab##Capitán Nemo##Capitán Ahab
+¿Gabriel García Márquez se caracteriza por narrar en un mundo:##Surrealista##Real Maravilloso##Mítico##Fantástico##Real Maravilloso
+¿Quién escribió "Dos años de vacaciones"?##Robert Louis Stevenson##Julio Verne##Mark Twain##H.G. Wells##Julio Verne
+¿Quién era la diosa de la sabiduría en la mitología griega?##Hera##Atenea##Afrodita##Artemisa##Atenea
+¿De qué muere Jean Valjean en la novela 'Los Miserables'?##De viejo##De un disparo##De una enfermedad##De hambre##De viejo
+¿De qué estaba hecha la casa que se encontraron Hansel y Gretel?##Galleta##Chocolate##Madera##Caramelo##Chocolate
+¿Quién escribió la novela "100 años de Soledad"?##Isabel Allende##Gabriel García Márquez##Julio Cortázar##Mario Vargas Llosa##Gabriel García Márquez
+¿Quién escribió 'Mujercitas'?##Emily Brontë##Louisa May Alcott##Jane Austen##Charlotte Brontë##Louisa May Alcott
+¿Quién es el autor de "Las aventuras de Alicia en el País de las Maravillas"?##Lewis Carroll##C.S. Lewis##J.R.R. Tolkien##James Barrie##Lewis Carroll
+¿Quién es el autor de "Las Cuatro Estaciones"?##Johann Sebastian Bach##Antonio Vivaldi##Ludwig van Beethoven##Wolfgang Amadeus Mozart##Antonio Vivaldi
+¿De qué nacionalidad era Leonardo Da Vinci?##Español##Italiano##Francés##Austriaco##Italiano
+¿Cuál es el nombre del conde de Montecristo?##Jean Valjean##Edmon Dantès##Armand Duval##Athos##Edmon Dantès
+¿Más vale tarde...?##que nunca##que rápido##que temprano##que a tiempo##que nunca
+En mitología griega, ¿quién traslada a los muertos hacia el inframundo?##Hades##Caronte##Hermes##Perséfone##Caronte
