@@ -261,7 +261,7 @@ def Marcador():
         print(f"{i}° Lugar: {Jugador} con {Puntaje} puntos.")
         i += 1
 
-    input("Presione cualquier tecla para continuar")
+    input("\n\n Presiona cualquier tecla para continuar \n\n")
 
 
 def Imprimir_Mensaje_Acierto():
@@ -284,7 +284,7 @@ def Imprimir_Mensaje_Acierto():
     print("\n¡¡CORRECTO!!\n")
     print("\n",mensajes_de_victoria[random],"\n")  
 
-    input("Presione cualquier tecla para continuar")
+    input("\n\n Presiona cualquier tecla para continuar \n\n")
 
 def Imprimir_Mensaje_Fallo():
 
@@ -306,7 +306,7 @@ def Imprimir_Mensaje_Fallo():
     print("\n¡¡INCORRECTO!!\n")
     print(mensajes_de_fallo[random])    
     
-    input("Presione cualquier tecla para continuar")
+    input("\n\n Presiona cualquier tecla para continuar \n\n")
 
 def Imprimir_Numero_Ronda(Ronda):
     """
@@ -430,7 +430,7 @@ def Imprimir_Mensaje_Ganador(Ganador):
     print("¡Felicidades Ganaste, ERES UN GENIO!")
     print(f"¡EL GANADOR ES {Ganador[1]} con un puntaje de {Ganador[0]} puntos!")
 
-    input("Presione cualquier tecla para continuar")
+    input("\n\n Presiona cualquier tecla para continuar \n\n")
 
 def Hubo_Empate(Empatados):
     """
@@ -457,7 +457,7 @@ def Hubo_Empate(Empatados):
     print("\n2-Quien falle la pregunta no tendrá segunta oportunidad.")
     print("\n3-Ganará quien no pare de fallar.")
 
-    input("Presione cualquier tecla para continuar")
+    input("\n\n Presiona cualquier tecla para continuar \n\n")
 
     Empezar_Juego(1)
 
@@ -599,9 +599,7 @@ def Imprimir_Como_Jugar():
           uno por turnos.""")
     print("5. Al finalizar, se mostrará el puntaje de cada jugador y el ganador del juego.\n\n")
 
-    print("\n\n Presiona cualquier tecla para continuar \n\n")
-
-    input()
+    input("\n\n Presiona cualquier tecla para continuar \n\n")
 
 
 def Salir():
@@ -673,7 +671,7 @@ def main():
 
         Imprimir_Bienvenida()
 
-        input("Presione cualquier tecla para continuar")
+        input("\n\n Presiona cualquier tecla para continuar \n\n")
 
         global Continuar_Jugando
 
@@ -694,7 +692,7 @@ def main():
 
     finally:
         print("Gracias por jugar!")
-        input("Presione cualquier tecla para salir")
+        input("\n\n Presiona cualquier tecla para continuar \n\n")
 
 
 """ Ejecución del Programa """
